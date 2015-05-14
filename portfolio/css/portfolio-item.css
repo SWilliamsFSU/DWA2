@@ -1,0 +1,39 @@
+/*!
+ * Start Bootstrap - Portfolio Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    background: radial-gradient(ellipse at center, rgba(240,249,255,1) 0%,rgba(203,235,255,1) 47%,rgba(161,219,255,1) 100%);
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.navbar-default {
+
+}
+
+h1 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.heading {
+    font-family: 'Monsieur La Doulaise', cursive;
+    font-size: 5em;
+    text-align: center;
+}
+
+hr {
+    border-color: black;
+}
+
+footer, .head_tag {
+    text-align: center;
+}
